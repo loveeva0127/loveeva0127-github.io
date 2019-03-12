@@ -1,0 +1,15 @@
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform; none;
+}
+
+subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
+	text-transform: none;
+	letter-spacing: -0.5rem;
+}
