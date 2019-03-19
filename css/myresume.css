@@ -13,3 +13,8 @@ subheading {
 	text-transform: none;
 	letter-spacing: -0.5rem;
 }
+bg-primary {
+    background-color: #DE3163!important;
+}
+.text-primary {
+    color: #dc3545!important;
